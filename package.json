@@ -1,0 +1,16 @@
+{
+  "name": "brs-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "brs-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^15.0.0",
+    "fs-extra": "^11.3.5"
+  },
+  "engines": {
+  "node": ">=16"
+}
+}

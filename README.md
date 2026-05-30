@@ -10,4 +10,6 @@ npm install -g brs-cli
 
 
 ## Usage
+```bash
 brs-cli create my-app
+```
